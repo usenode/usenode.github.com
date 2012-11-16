@@ -12,4 +12,4 @@ Make changes in the main [usenode/use.no.de](https://github.com/usenode/use.no.d
 
     make ghpages
 
-The `Makefile` will run the site, generate the markup into `.html` files and finally push into the `gh-pages` branch of this project.
+The `Makefile` will run the site, generate the markup into `.html` files and finally push into this project.
